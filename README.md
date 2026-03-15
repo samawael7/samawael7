@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4537E,100:1D9E75&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sama Wael </h1>
@@ -56,5 +56,5 @@
 <h3 align="center">Always learning. Always building. Always improving. 🚀</h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:D4537E&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FE1CB,100:F4C0D1&height=100&section=footer" width="100%" />
 </div>
