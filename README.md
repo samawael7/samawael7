@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sama Wael Abdou</h1>
+<h1 align="center">Hi 👋, I'm Sama Wael </h1>
 <h3 align="center">Aspiring Data Engineer | 🎓Fresh Graduate | ITI Trainee</h3>
 <p align="center">I turn raw, messy data into clean, meaningful insights.<br/>Currently building my skills across the full data engineering stack — one project at a time.</p>
 
@@ -49,12 +49,5 @@
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">📈 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samawael7&show_icons=true&locale=en&hide_border=true" alt="samawael7" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samawael7&show_icons=true&locale=en&layout=compact&hide_border=true" alt="samawael7" />
-</p>
 
 <h3 align="center">Always learning. Always building. Always improving. 🚀</h3>
