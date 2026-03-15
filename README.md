@@ -1,8 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:ED93B1&height=140&section=header&text=Sama%20Wael%20&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:ED93B1&height=140&section=header&text=Sama%20Waeltext=Sama%20Wael%20Abdou&fontSize=48&fontColor=4B1528&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Data%20Engineer&descSize=18&descAlignY=62&descColor=72243EfontSize=48text=Sama%20Wael%20Abdou&fontSize=48&fontColor=4B1528&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Data%20Engineer&descSize=18&descAlignY=62&descColor=72243EfontColor=fffffftext=Sama%20Wael%20Abdou&fontSize=48&fontColor=4B1528&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Data%20Engineer&descSize=18&descAlignY=62&descColor=72243Eanimation=fadeIntext=Sama%20Wael%20Abdou&fontSize=48&fontColor=4B1528&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Data%20Engineer&descSize=18&descAlignY=62&descColor=72243EfontAlignY=50" />
 </div>
+
+<br/>
+
+<p align="center">
+
 <h3 align="center">Aspiring Data Engineer | 🎓Fresh Graduate | ITI Trainee</h3>
 <p align="center">I turn raw, messy data into clean, meaningful insights.<br/>Currently building my skills across the full data engineering stack — one project at a time.</p>
+
+<br/>
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
