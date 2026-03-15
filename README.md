@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wavingsrc="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"color=0:0D1B2A,100:1B2A4Asrc="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"height=140src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"section=headersrc="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"text=Sama%20Wael%20Abdousrc="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"fontSize=52src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"fontColor=fffsrc="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"animation=fadeInsrc="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"fontAlignY=42src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"desc=Aspiring%20Data%20Engineersrc="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"descSize=20src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"descAlignY=62src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:9FE1CB&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"descColor=fff" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Sama Wael </h1>
+
 <h3 align="center">Aspiring Data Engineer | 🎓Fresh Graduate | ITI Trainee</h3>
 <p align="center">I turn raw, messy data into clean, meaningful insights.<br/>Currently building my skills across the full data engineering stack — one project at a time.</p>
 
@@ -56,5 +56,5 @@
 <h3 align="center">Always learning. Always building. Always improving. 🚀</h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FE1CB,100:F4C0D1&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:0D1B2A&height=100&section=footer" width="100%" />
 </div>
