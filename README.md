@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4537E,100:1D9E75&height=120&section=header&text=Sama%20Wael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Sama Wael </h1>
 <h3 align="center">Aspiring Data Engineer | 🎓Fresh Graduate | ITI Trainee</h3>
 <p align="center">I turn raw, messy data into clean, meaningful insights.<br/>Currently building my skills across the full data engineering stack — one project at a time.</p>
@@ -49,5 +53,8 @@
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 </p>
 
-
 <h3 align="center">Always learning. Always building. Always improving. 🚀</h3>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:D4537E&height=100&section=footer" width="100%" />
+</div>
