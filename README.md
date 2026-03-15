@@ -3,7 +3,6 @@
 </div>
 <h3 align="center">Aspiring Data Engineer | 🎓Fresh Graduate | ITI Trainee</h3>
 <p align="center">I turn raw, messy data into clean, meaningful insights.<br/>Currently building my skills across the full data engineering stack — one project at a time.</p>
-<br/>
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
