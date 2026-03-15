@@ -1,15 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:ED93B1&height=140&section=header&text=Sama%20Wael%20Abdou&fontSize=48&fontColor=4B1528&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Data%20Engineer&descSize=18&descAlignY=62&descColor=72243E" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:ED93B1&height=140&section=header&text=Sama%20Wael%20&fontSize=48&fontColor=4B1528&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Data%20Engineer&descSize=18&descAlignY=62&descColor=72243E" />
 </div>
 
 <br/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=D4537E&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+meaningful+insights+📊;Building+the+full+DE+stack+🛠️;One+project+at+a+time+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
 <h3 align="center">Aspiring Data Engineer | 🎓Fresh Graduate | ITI Trainee</h3>
 <p align="center">I turn raw, messy data into clean, meaningful insights.<br/>Currently building my skills across the full data engineering stack — one project at a time.</p>
 
@@ -28,18 +21,18 @@
 
 ---
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<h4 align="left">🗄️ Data Warehousing</h4>
-<p align="left">
+<h4 align="center">🗄️ Data Warehousing</h4>
+<p align="center">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>&nbsp;
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
   <a href="https://www.snowflake.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/></a>&nbsp;
   <a href="https://www.getdbt.com/" target="_blank"><img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">🐘 Big Data</h4>
-<p align="left">
+<h4 align="center">🐘 Big Data</h4>
+<p align="center">
   <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/></a>&nbsp;
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/></a>&nbsp;
   <a href="https://hive.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/></a>&nbsp;
@@ -48,8 +41,8 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">📊 Data Analytics</h4>
-<p align="left">
+<h4 align="center">📊 Data Analytics</h4>
+<p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>&nbsp;
   <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>&nbsp;
@@ -57,8 +50,8 @@
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">⚙️ DevOps & Tools</h4>
-<p align="left">
+<h4 align="center">⚙️ DevOps & Tools</h4>
+<p align="center">
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;
