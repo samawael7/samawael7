@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:ED93B1&height=120&section=header&text=Sama%20Wael&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:ED93B1&height=120&section=header&text=Sama%20Wael&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=20" />
 </div>
 <h3 align="center">Aspiring Data Engineer | 🎓Fresh Graduate | ITI Trainee</h3>
 <p align="center">I turn raw, messy data into clean, meaningful insights.<br/>Currently building my skills across the full data engineering stack — one project at a time.</p>
