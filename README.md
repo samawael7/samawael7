@@ -28,7 +28,7 @@
 ## 🧠 Tech Stack
 
 ### ⚙️ Data Engineering
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48"/>
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48"/>
@@ -37,57 +37,29 @@
 </p>
 
 ### 💻 Programming
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="48"/>
   <img src="https://cdn.simpleicons.org/numpy/013243" height="48"/>
 </p>
 
 ### 📦 Big Data
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48"/>
   <img src="https://cdn.simpleicons.org/apachekafka/000000" height="48"/>
   <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="48"/>
 </p>
 
 ### ☁️ Cloud & DevOps
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
 </p>
 
 ### 📊 Visualization
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
   <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔥 ELT Sales Pipeline
-- End-to-end ELT pipeline using **SQL Server + Airflow + dbt**
-- Medallion Architecture (Bronze → Silver → Gold)
-- Automated incremental transformations
-
----
-
-### 📚 Gravity Books Data Warehouse
-- Star Schema (6 dimensions + fact table)
-- 15K+ transactions processed
-- SSIS ETL + Power BI dashboards
-
----
-
-### 📊 User Analytics Dashboard
-- API → JSON → Cleaned → Visualized
-- Built with Python, Pandas, Seaborn
-
----
-
-### 🌸 Velora (Graduation Project – A+)
-- ML model (CNN) detecting 7 skin conditions (~77%)
-- Full system contribution (Frontend + ML pipeline)
 
 ---
 
@@ -110,29 +82,6 @@
 </p>
 
 ---
-
-## 🎓 Education
-
-**Helwan University**  
-Bachelor’s in Computers & Artificial Intelligence  
-GPA: 3.40  
-
----
-
-## 📚 Certifications
-
-- IBM – Introduction to Data Engineering  
-- IBM – Data Warehouse Fundamentals  
-- MaharaTech – Database Fundamentals  
-
----
-
-## 💡 Soft Skills
-
-Problem-Solving • Critical Thinking • Communication • Detail-Oriented  
-
----
-
 ## ⚡ Mindset
 
 ```txt
