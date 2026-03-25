@@ -21,10 +21,10 @@
 
 ---
 
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  🏫 <strong>ITI Intensive Data Engineering Trainee</strong> <br/>
+  🏫 <strong>ITI Data Engineering Trainee</strong> <br/>
   🏗️ Building scalable Data Warehouses & ELT Pipelines <br/>
   ⚡ Turning messy, raw data → clean, structured, useful systems <br/>
 </p>
