@@ -24,7 +24,7 @@
 <h2 align="center">🌸 About Me</h2>
 
 <p align="center">
-  🏫 <strong>ITI Intensive Data Engineering Track</strong> Graduate <br/>
+  🏫 <strong>ITI Intensive Data Engineering Trainee</strong> <br/>
   🏗️ Building scalable Data Warehouses & ELT Pipelines <br/>
   ⚡ Turning messy, raw data → clean, structured, useful systems <br/>
 </p>
@@ -97,15 +97,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=samawael7&theme=rose_pine&hide_border=true" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samawael7&layout=compact&theme=rose_pine&hide_border=true" />
-</div>
-
----
-
-<h2 align="center">⚡ Mindset</h2>
-
-<div align="center">
-  <p><code>Raw Data  →  Pipelines  →  Models  →  Insights</code></p>
-  <p><i>I build systems, not just code.</i></p>
 </div>
 
 ---
