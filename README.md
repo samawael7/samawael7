@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">🌸 About Me</h2>
 
 <p align="center">
   🏫 <strong>ITI Intensive Data Engineering Track</strong> Graduate <br/>
@@ -32,14 +32,7 @@
 <br/>
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║   "I don't just move data — I give it structure,         ║
-║    meaning, and a place to be useful."                   ║
-╚══════════════════════════════════════════════════════════╝
-```
-
+  <i>"I don't just move data — I give it structure, meaning, and a place to be useful."</i>
 </div>
 
 ---
@@ -111,13 +104,8 @@
 <h2 align="center">⚡ Mindset</h2>
 
 <div align="center">
-
-```
-Raw Data  →  Pipelines  →  Models  →  Insights
-
-I build systems, not just code.
-```
-
+  <p><code>Raw Data  →  Pipelines  →  Models  →  Insights</code></p>
+  <p><i>I build systems, not just code.</i></p>
 </div>
 
 ---
