@@ -21,14 +21,12 @@
 
 ---
 
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  🎓 CS Graduate – Information Systems · <strong>Helwan University</strong> (GPA: 3.40) <br/>
   🏫 <strong>ITI Intensive Data Engineering Track</strong> Graduate <br/>
   🏗️ Building scalable Data Warehouses & ELT Pipelines <br/>
   ⚡ Turning messy, raw data → clean, structured, useful systems <br/>
-  💡 Interested in Big Data, Cloud Engineering & Data Modeling
 </p>
 
 <br/>
