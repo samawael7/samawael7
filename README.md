@@ -10,8 +10,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/samawaell"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  <a href="https://www.hackerrank.com/samawael764"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a>
-  <a href="https://www.leetcode.com/samawael"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
   &nbsp;📫 <strong>samawael764@gmail.com</strong>
 </p>
 
@@ -19,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 CS graduate from **Helwan University** (GPA: 3.40) — Information Systems track
+- 🎓 CS graduate from **Helwan University** (GPA: 3.40) — Information Systems
 - 🏫 **ITI Data Engineering Intensive** — hands-on training in pipelines, warehousing & big data
 - 🔭 Currently building a production-style **ELT Sales Pipeline** with Airflow, dbt & SQL Server
 - 📚 Deepening knowledge via IBM Data Engineering & Data Warehouse courses on Coursera
