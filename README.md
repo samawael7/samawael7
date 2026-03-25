@@ -50,26 +50,19 @@
 ### ⚙️ Data Engineering & Warehousing
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,snowflake,airflow,dbt" />
 </div>
 
 ### 🐍 Languages & Processing
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" />
 </div>
 
 ### 🐘 Big Data
 <div align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=kafka" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spark,hadoop,hive" />
 </div>
 
 ### ☁️ Cloud & DevOps
@@ -79,8 +72,7 @@
 
 ### 📊 Visualization
 <div align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel" />
 </div>
 
 ---
