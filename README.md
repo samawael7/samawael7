@@ -12,8 +12,6 @@
 <div align="center">
   <a href="https://github.com/samawael7"><img src="https://img.shields.io/badge/GitHub-152238?style=for-the-badge&logo=github&logoColor=F4C0D1"/></a>
   <a href="https://linkedin.com/in/samawaell"><img src="https://img.shields.io/badge/LinkedIn-ED93B1?style=for-the-badge&logo=linkedin&logoColor=152238"/></a>
-  <a href="https://www.hackerrank.com/samawael764"><img src="https://img.shields.io/badge/HackerRank-F4C0D1?style=for-the-badge&logo=hackerrank&logoColor=152238"/></a>
-  <a href="https://www.leetcode.com/samawael"><img src="https://img.shields.io/badge/LeetCode-ED93B1?style=for-the-badge&logo=leetcode&logoColor=152238"/></a>
   <a href="mailto:samawael764@gmail.com"><img src="https://img.shields.io/badge/Email-F4C0D1?style=for-the-badge&logo=gmail&logoColor=152238"/></a>
 </div>
 
