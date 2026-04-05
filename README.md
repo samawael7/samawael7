@@ -93,7 +93,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=samawael7&theme=rose_pine&hide_border=true" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samawael7&layout=compact&theme=rose_pine&hide_border=true" />
 </div>
 
 <div align="center">
