@@ -96,4 +96,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samawael7&layout=compact&theme=rose_pine&hide_border=true" />
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED93B1,100:F4C0D1&height=100&section=footer" />
+</div>
